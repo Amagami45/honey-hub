@@ -19,4 +19,3 @@ This project is licenced by NC. More onfo is in file LICENCE.
 <img width="874" height="577" alt="Snímek obrazovky 2026-06-11 164115" src="https://github.com/user-attachments/assets/e3306612-995f-4f7a-97cd-7bb46d751b65" />
 <img width="412" height="203" alt="Snímek obrazovky 2026-06-22 212639" src="https://github.com/user-attachments/assets/faa7c357-17b1-4fe4-a333-5d2daf06be66" />
 <img width="395" height="332" alt="Snímek obrazovky 2026-06-26 203202" src="https://github.com/user-attachments/assets/4b0ecded-b582-4b2e-b394-6206025723e9" />
-<img width="3496" height="4960" alt="image" src="https://github.com/user-attachments/assets/c1a01cff-a2b6-4dda-a2bd-4a80f5e93ce4" />
