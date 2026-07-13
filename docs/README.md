@@ -14,6 +14,9 @@ This project is optimalized for production and assembly by JLCPCB, because of al
 2. Login to your account
 3. Import project or open file '.epro'
 
+## Why?
+Since my laptop has only 2 USB-A ports and 1 USB-C I often don't have enough space to plug in all my peripherals.
+
 ## Licence
 This project is licenced by NC. More info is in file LICENCE.
 <img width="874" height="577" alt="Snímek obrazovky 2026-06-11 164115" src="https://github.com/user-attachments/assets/e3306612-995f-4f7a-97cd-7bb46d751b65" />
