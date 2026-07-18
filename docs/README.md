@@ -49,6 +49,17 @@ Since my laptop has only 2 USB-A ports and 1 USB-C I often don't have enough spa
 
 ## Licence
 This project is licenced by NC. More info is in file LICENCE.
+
+## Schematics
+I did whole schematics in EasyEDA Pro, because it has fast LCSC parts assignment. I tried when I was designing to look for:
+- right USB-C and USB-A connectors integration
+- safety on input rout
+- clean and readable signals layout
+- minimalizing crossing routes
+<img width="2320" height="1635" alt="SCH_New Project_1-Sheet_1_2026-07-18" src="https://github.com/user-attachments/assets/fc411f79-83f3-4b6e-8e12-60c8ecf69465" />
+
+## PCB Design
+I also designed PCB in EasyEDA Pro. There
 <img width="753" height="572" alt="Snímek obrazovky 2026-07-18 094726" src="https://github.com/user-attachments/assets/5b3fa664-76a1-474c-b20f-2d1c57bf93df" />
 <img width="780" height="563" alt="Snímek obrazovky 2026-07-18 094743" src="https://github.com/user-attachments/assets/b60487b3-4fca-498b-bfbb-72ef5af135ab" />
 <img width="874" height="577" alt="Snímek obrazovky 2026-06-11 164115" src="https://github.com/user-attachments/assets/e3306612-995f-4f7a-97cd-7bb46d751b65" />
